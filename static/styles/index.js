@@ -9,7 +9,8 @@ $(document).ready(function(){
     });
 
     $(".main-title").css({
-      "font-size": "36px"
+      "font-size": "36px",
+      
     });
 
   }
