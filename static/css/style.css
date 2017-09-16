@@ -90,8 +90,8 @@ h1 {
 }
 
 .title-img{
-	max-width:100%;
-	max-height:60px;
+	/*max-width:100%;
+	max-height:60px;*/
 	width:auto;
 }
 
@@ -107,8 +107,7 @@ h1 {
 	/*left:0;
 	right:0;*/
 	margin:auto;
-	max-height: 400px;
-	width: 100%;
+	width:60vh;
 
 	display: block;
 }
