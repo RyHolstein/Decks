@@ -24,7 +24,7 @@ p {
 	font-family: 'apercuregular', arial, sans-serif;
 	text-transform: none;
 	color: #222222;
-  text-shadow: 0px 3px 15px rgba(0,0,0,0.2);
+  /*text-shadow: 0px 3px 15px rgba(0,0,0,0.2);*/
 	font-size:14px;
   font-weight: bold;
 }
@@ -107,7 +107,8 @@ h1 {
 	/*left:0;
 	right:0;*/
 	margin:auto;
-	max-height:200px;
+	max-height: 400px;
+	width: 100%;
 
 	display: block;
 }
@@ -127,4 +128,8 @@ h1 {
 }
 .buffer {
 	margin-bottom: 50vh;
+}
+.synopsis {
+	position: relative;
+	right: 20px;
 }
